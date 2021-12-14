@@ -8,7 +8,7 @@ function FeaturedSalesAgent() {
         <div className="title">Featured Sales Agent</div>
         <ul>
           <li>
-            <a href="/sales-agents/">RD ENTERPRISES</a>
+            <a href="/sales-agents/">Company Name 1</a>
             <p className="prod">
               <b>Products : </b>Chicken Frozen Food, Mutton Frozen Food, Chicken
               Kebab, Chicken
@@ -28,7 +28,7 @@ function FeaturedSalesAgent() {
             </p>
           </li>
           <li>
-            <a href="/sales-agents/">AXIS ELECTRICAL COMPONENTS (I) P. LTD.</a>
+            <a href="/sales-agents/">Company Name 2</a>
             <p className="prod">
               <b>Products : </b>Aerial Bundled Cable Accessories, Distribution
               Boxes, Cable
@@ -48,9 +48,7 @@ function FeaturedSalesAgent() {
             </p>
           </li>
           <li>
-            <a href="/sales-agents/">
-              Nightssabaandon Consumer and Healthcare Pvt Ltd
-            </a>
+            <a href="/sales-agents/">Company Name 3</a>
             <p className="prod">
               <b>Products : </b>Facewash, Shampoo, Hairoil, Allegra facewash
               Charcoal facewash
@@ -70,9 +68,7 @@ function FeaturedSalesAgent() {
             </p>
           </li>
           <li>
-            <a href="/sales-agents/">
-              VT ECOGREEN TECHNOLOGIES PRIVATE LIMITED
-            </a>
+            <a href="/sales-agents/">Company Name 4</a>
             <p className="prod">
               <b>Products : </b>White Pepper, White Pepper based masala mix, All
               Spices
@@ -92,7 +88,7 @@ function FeaturedSalesAgent() {
             </p>
           </li>
           <li>
-            <a href="/sales-agents/">ENTEK CORPORATION</a>
+            <a href="/sales-agents/">Company Name 5</a>
             <p className="prod">
               <b>Products : </b>Bopp Tape, Printed Bopp Tape, Plain Bopp Tape,
               Coloured Bopp
@@ -112,7 +108,7 @@ function FeaturedSalesAgent() {
             </p>
           </li>
           <li>
-            <a href="/sales-agents/">ABHA AGRO EXPORTS PRIVATE LIMITED</a>
+            <a href="/sales-agents/">Company Name 6</a>
             <p className="prod">
               <b>Products : </b>HIND MAKHANA, HY-PRO MAKHANA
             </p>

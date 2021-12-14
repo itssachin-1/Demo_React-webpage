@@ -88,6 +88,8 @@
   max-height: 100%;
   object-fit: contain;
   transition: all 0.2s linear;
+  filter: blur(28px);
+  -webkit-filter: blur(28px);
 }
 
 .cards__item__img:hover {

@@ -13,7 +13,7 @@ function Featured() {
                 {" "}
                 <a href="/featured/">
                   <img
-                    src="./featured/mo.jpeg"
+                    src="./featured/c.png"
                     className="fimg"
                     alt="Feat.Company-1"
                   />
@@ -23,7 +23,7 @@ function Featured() {
                 {" "}
                 <a href="/featured/">
                   <img
-                    src="./featured/MICROSIDD.jpeg"
+                    src="./featured/c.png"
                     className="fimg"
                     alt="Feat.Company-2"
                   />
@@ -33,7 +33,7 @@ function Featured() {
                 {" "}
                 <a href="/featured/">
                   <img
-                    src="./featured/ek.jpeg"
+                    src="./featured/c.png"
                     className="fimg"
                     alt="Feat.Company-3"
                   />
@@ -43,7 +43,7 @@ function Featured() {
                 {" "}
                 <a href="/featured/">
                   <img
-                    src="./featured/dora.jpeg"
+                    src="./featured/c.png"
                     className="fimg"
                     alt="Feat.Company-4"
                   />
@@ -53,7 +53,7 @@ function Featured() {
                 {" "}
                 <a href="/featured/">
                   <img
-                    src="./featured/CREAMY.jpeg"
+                    src="./featured/c.png"
                     className="fimg"
                     alt="Feat.Company-5"
                   />
@@ -68,7 +68,7 @@ function Featured() {
                 {" "}
                 <a href="/featured/">
                   <img
-                    src="./featured/tcl.jpeg"
+                    src="./featured/c.png"
                     className="fimg"
                     alt="Feat.Company-6"
                   />
@@ -78,7 +78,7 @@ function Featured() {
                 {" "}
                 <a href="/featured/">
                   <img
-                    src="./featured/tw.jpeg"
+                    src="./featured/c.png"
                     className="fimg"
                     alt="Feat.Company-7"
                   />
