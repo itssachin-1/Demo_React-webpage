@@ -1,0 +1,35 @@
+.featured-container {
+  display: flex;
+  justify-content: center;
+  margin: 30px 10% 30px 10%;
+}
+.fhead {
+  color: rgb(43, 43, 43);
+  padding-top: 30px;
+  padding-left: 1%;
+}
+.feat > ul > li {
+  list-style: none;
+  max-width: 20%;
+  float: left;
+  padding: 1% 1% 1% 1%;
+  opacity: 0.97;
+}
+.feat > ul > li img {
+  max-width: 100%;
+}
+.feat-row {
+  padding: 1rem 1rem;
+  border-bottom: 2px solid rgb(211, 211, 211);
+}
+@media screen and (max-width: 768px) {
+  .featured-container {
+    flex-direction: column;
+  }
+  .feat > ul > li {
+    max-width: 25%;
+  }
+  .fhead {
+    font-size: large;
+  }
+}

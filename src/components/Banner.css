@@ -1,0 +1,113 @@
+.container {
+  background: url("../banner.jpg") center center/cover no-repeat;
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30%;
+}
+.row h1 {
+  font-size: 70px;
+}
+.row > p {
+  font-size: 30px;
+  color: rgb(20, 20, 20);
+}
+
+/* ul {
+  display: flex;
+  list-style: none;
+} */
+
+.threeTab > ul > li {
+  margin-right: 51px;
+  background-color: lightsalmon;
+  padding: 5px;
+}
+
+.crow,
+.radioCnt {
+  display: flex;
+  margin-top: 11px;
+}
+
+.fillterBox {
+  display: block;
+  width: 700px;
+  background-color: rgba(11, 25, 111, 0.02);
+  padding: 40px;
+  margin-top: 30px;
+  border-radius: 4px;
+}
+
+.radio {
+  margin-right: 21px;
+}
+
+.fillterPostBtn {
+  margin-top: 21px;
+}
+
+.selectStyle > select,
+.searchProduct,
+.btn {
+  font-size: 14px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  padding: 11px 21px 11px 21px;
+  cursor: pointer;
+}
+
+.searchProduct {
+  margin-right: 0;
+}
+
+.btn {
+  color: white;
+  background-color: limegreen;
+  font-size: 14px;
+  padding: 10px 21px 10px 21px;
+}
+
+.rbtn {
+  background-color: orange;
+  text-decoration: none;
+}
+
+.selectStyle > select {
+  position: relative;
+  color: #aaa;
+  -webkit-appearance: none;
+  /*        background: url(chevron-down-solid.svg) no-repeat;
+      background-size: 16px 16px;*/
+}
+
+.ico {
+  position: relative;
+  top: 50%;
+  left: -20%;
+}
+
+.fa-search {
+  color: white;
+  padding-right: 9px;
+}
+@media screen and (max-width: 768px) {
+  .row h1 {
+    font-size: 16px;
+  }
+  .container {
+    height: 41vh;
+  }
+  .fillterBox {
+    width: 90%;
+  }
+  .radio label {
+    font-size: 0.5rem;
+  }
+  .crow {
+    flex-direction: column;
+  }
+}
