@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 #images
-/images
-/featured
+/public/images
+/public/featured
